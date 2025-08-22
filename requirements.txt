@@ -1,0 +1,5 @@
+# Requirements for Streamlit Cloud deployment
+streamlit
+pandas
+numpy
+tqdm

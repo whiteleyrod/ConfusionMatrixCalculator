@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(layout="wide")
 import importlib.util
 import sys
 from pathlib import Path

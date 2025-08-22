@@ -1,0 +1,11 @@
+[server]
+headless = true
+
+defaultPage = "app"
+
+[theme]
+base="light"
+
+[ui]
+# Enable wide mode by default
+wideMode = true

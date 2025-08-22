@@ -22,4 +22,4 @@ This Streamlit app allows you to calculate and estimate diagnostic test statisti
 
 ---
 
-For questions or issues, contact the developer.
+For questions or issues, you're on your own - this software is "as is" and you should expect it to not work properly. You have been warned.
